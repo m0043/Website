@@ -1,0 +1,13 @@
+]0;~/Documents/GitHub/Website[?1034hMoost:Website Devin$ [KMoost:Website Devin$ hugo
+bash: hugo: command not found
+]0;~/Documents/GitHub/WebsiteMoost:Website Devin$ hugo;4D[K[K[K[K[K[K[Khugo
+bash: hugo: command not found
+]0;~/Documents/GitHub/WebsiteMoost:Website Devin$ cd.[K[K[Kls
+Website		archetypes	content		index.Rmd	public		themes
+Website.Rproj	config.toml	data		layouts		static
+]0;~/Documents/GitHub/WebsiteMoost:Website Devin$ cd ,,[K[K..
+]0;~/Documents/GitHubMoost:GitHub Devin$ l[Khugo
+bash: hugo: command not found
+]0;~/Documents/GitHubMoost:GitHub Devin$ c[K./ hugo
+bash: ./: is a directory
+]0;~/Documents/GitHubMoost:GitHub Devin$ 

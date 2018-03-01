@@ -1,0 +1,4 @@
+# serve_site() build
+# build_site() reconfigures
+# saved to github directory; then needs to be resubmitted
+# if that doesnt work, go to terminal, type in hugo, then build_site()
