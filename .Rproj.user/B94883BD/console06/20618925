@@ -10,4 +10,83 @@ Website.Rproj	config.toml	data		layouts		static
 bash: hugo: command not found
 ]0;~/Documents/GitHubMoost:GitHub Devin$ c[K./ hugo
 bash: ./: is a directory
-]0;~/Documents/GitHubMoost:GitHub Devin$ 
+]0;~/Documents/GitHubMoost:GitHub Devin$ ld[Ks
+Website
+]0;~/Documents/GitHubMoost:GitHub Devin$ cd ..
+]0;~/DocumentsMoost:Documents Devin$ ls
+ PhD 2014					DnD DM.pdf					R
+$RECYCLE.BIN					DnD Players.pdf					R Projects
+83H						Documentation					Screenshots
+Aiseesoft Studio				Emotions Wierzbecka.pdf				Sheet music
+Art & Writing					Family History					Songs for HG
+Atom Coahuitlán					Finances					Stories
+AutoCAD Projects				GitHub						Text Message Log Backup
+Autodesk					HR Roots & Berries				Text Message Log Backup 18 nov 2015.xlsx
+Awards						Hannah						TextWrangler Backups
+BA 2008-2012					Hayes Chapter 4 Phonological Features.pdf	Totonac
+BBEDIT GREP Cheat sheet.txt			Info Mom & Dad.txt				Totonac de Coahuitlán
+BBEdit Backups					LDRC Mailing List January 2014.xls		Web app wi: JB
+Baby reading					LEGO Creations					Yoga
+Calendar					Lang & Conlang					acad.err
+Cartoons					MCEdit 2 Files					card games
+Church						MSc 2012-2014					christmas gifts 2016.txt
+CoLang FLEx Handout.pdf				MSc Application					emotions.txt
+Corpora						MuseScore2					plot.log
+Craft						Pending Transfer				~$15 Reading List.docx
+Desktop Tidy					Presentations
+]0;~/DocumentsMoost:Documents Devin$ cd ..
+]0;~Moost:~ Devin$ cd ..
+]0;/UsersMoost:Users Devin$ ls
+Devin	Shared
+]0;/UsersMoost:Users Devin$ cd Devin
+]0;~Moost:~ Devin$ cd M[KBin
+]0;~/BinMoost:Bin Devin$ ls
+LICENSE.md	README.md	hugo
+]0;~/BinMoost:Bin Devin$ .[K./ hu[K[K[Khugo
+Error: Unable to locate Config file. Perhaps you need to create a new site.
+       Run `hugo help new` for details. (Config File "config" Not Found in "[/Users/Devin/Bin]")
+
+cd [K[K[Kls
+LICENSE.md	README.md	hugo
+]0;~/BinMoost:Bin Devin$ c[K./ [Khugo
+Error: Unable to locate Config file. Perhaps you need to create a new site.
+       Run `hugo help new` for details. (Config File "config" Not Found in "[/Users/Devin/Bin]")
+
+]0;~/BinMoost:Bin Devin$ cd..[K .[K[K[K ..
+]0;~Moost:~ Devin$ cd 
+]0;~Moost:~ Devin$ ls
+AT.postflight.3873	Desktop			Dropbox			Music			Pictures		bin
+Adlm			Documents		Library			OneDrive		Public			default.txt
+Applications		Downloads		Movies			OneDriveBusiness	Zotero			jobq.dat
+]0;~Moost:~ Devin$ cd Documents/
+]0;~/DocumentsMoost:Documents Devin$ cd GitHub/
+]0;~/Documents/GitHubMoost:GitHub Devin$ cd Website/
+]0;~/Documents/GitHub/WebsiteMoost:Website Devin$ ls
+Website		archetypes	content		index.Rmd	public		themes
+Website.Rproj	config.toml	data		layouts		static
+]0;~/Documents/GitHub/WebsiteMoost:Website Devin$ tar -xvf[K[Kvzf hugo_0.37_macOS-64bit.tar.gz
+tar: Error opening archive: Failed to open 'hugo_0.37_macOS-64bit.tar.gz'
+]0;~/Documents/GitHub/WebsiteMoost:Website Devin$ tar -xvzf hugo_0.37_macOS-64bit.tar.gz[C[C[C[C[C~hugo_0.37_macOS-64bit.tar.gzDhugo_0.37_macOS-64bit.tar.gzohugo_0.37_macOS-64bit.tar.gzwhugo_0.37_macOS-64bit.tar.gznhugo_0.37_macOS-64bit.tar.gzlhugo_0.37_macOS-64bit.tar.gzohugo_0.37_macOS-64bit.tar.gzahugo_0.37_macOS-64bit.tar.gzdhugo_0.37_macOS-64bit.tar.gzshugo_0.37_macOS-64bit.tar.gz/hugo_0.37_macOS-64bit.tar.gz;hugo_0.37_macOS-64bit.tar.gz9hugo_0.37_macOS-64bit.tar.gzChugo_0.37_macOS-64bit.tar.gz[1Phugo_0.37_macOS-64bit.tar.gz[1Phugo_0.37_macOS-64bit.tar.gz[1Phugo_0.37_macOS-64bit.tar.gz
+tar: Error opening archive: Failed to open '~Downloads/hugo_0.37_macOS-64bit.tar.gz'
+]0;~/Documents/GitHub/WebsiteMoost:Website Devin$ ls
+Website		archetypes	content		index.Rmd	public		themes
+Website.Rproj	config.toml	data		layouts		static
+]0;~/Documents/GitHub/WebsiteMoost:Website Devin$ c[Ktar -xvzf ~/Downloads/hugo_0.37_macOS-64bit.tar.gz
+x README.md
+x LICENSE.md
+x hugo
+]0;~/Documents/GitHub/WebsiteMoost:Website Devin$ ./ [Khugo
+[?25lBuilding sites … [?25h[K
+                   | EN  
++------------------+----+
+  Pages            | 31  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 11  
+  Processed images |  0  
+  Aliases          | 13  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 188 ms
+]0;~/Documents/GitHub/WebsiteMoost:Website Devin$ 
